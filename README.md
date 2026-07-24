@@ -5,7 +5,16 @@
 Sou licenciado em Geofísica e atualmente frequento o curso de Técnico Especialista em Tecnologias e Programação de Sistemas de Informação em Portugal.
 
 Tenho paixão por tecnologia e estou a construir uma carreira na área do desenvolvimento de software.
+---
+💻 Front-End Developer em formação
 
+🎓 Licenciado em Geofísica
+
+📚 Técnico Especialista em Tecnologias e Programação de Sistemas de Informação
+
+🚀 HTML | CSS | JavaScript | Python | SQL
+
+📍 Coimbra, Portugal
 ---
 
 ## 🚀 Tecnologias
