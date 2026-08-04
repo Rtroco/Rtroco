@@ -22,9 +22,6 @@ Tenho paixão por tecnologia e estou a construir uma carreira na área do desenv
 - HTML5
 - CSS3
 - JavaScript
-- Python
-- SQL
-- Git
 - GitHub
 
 ---
