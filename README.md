@@ -28,7 +28,7 @@ Tenho paixão por tecnologia e estou a construir uma carreira na área do desenv
 
 ## 📚 Atualmente estou a aprender
 
-- JavaScript ES6+
+- JavaScript 
 - Python
 - SQL
 - Programação Orientada a Objetos
@@ -36,7 +36,7 @@ Tenho paixão por tecnologia e estou a construir uma carreira na área do desenv
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em Desenvolvimento- Aprendizagem de Front-End
 
 🔹 Website Portfólio
 
@@ -72,7 +72,9 @@ www.linkedin.com/in/rodrigotroco
 Coimbra, Portugal
 
 ⭐ Obrigado por visitar o meu perfil!
+## Projeto em desenvolvimento
 
+Este repositório faz parte do meu percurso de aprendizagem em desenvolvimento Front-End.
 
 
 
